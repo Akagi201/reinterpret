@@ -1,0 +1,13 @@
+---
+Language: Cpp
+BasedOnStyle: Google
+UseTab: Never
+SpacesBeforeTrailingComments: 1
+AlignTrailingComments: true
+AllowShortFunctionsOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AlignAfterOpenBracket: Align
+SortIncludes: true
+ColumnLimit: 79
+MaxEmptyLinesToKeep: 2
